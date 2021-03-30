@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LibProj</string>
+
+    <array name="genres">
+        <item>Разказ</item>
+        <item>Стихотворение</item>
+        <item>Приказка</item>
+        <item>Повест</item>
+        <item>Елегия</item>
+        <item>Роман</item>
+
+    </array>
+</resources>
